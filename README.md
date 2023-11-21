@@ -1,7 +1,7 @@
 ***Security and Performance Threats to a Shopify Store***
 
 1. **Security Threats**:
-   - <a name="ddos">**DDoS Attacks**</a>: Similar to bot attacks, Distributed Denial of Service (DDoS) attacks can overwhelm your website with traffic, causing it to crash.
+   - **DDoS Attacks**: Similar to bot attacks, Distributed Denial of Service (DDoS) attacks can overwhelm your website with traffic, causing it to crash.
    - **Malware and Viruses**: These can compromise the security of your site and the safety of your customers' data.
    - **Phishing Scams**: Attackers may try to steal sensitive information by impersonating your store.
 
@@ -33,7 +33,7 @@
    <br>
 
 
-[**What proactive steps can I take to prevent or handle DDoS Attacks**](ddos)
+**What proactive steps can I take to prevent or handle DDoS Attacks**
 
 To proactively prevent and handle Distributed Denial of Service (DDoS) attacks on a Shopify store, you can take the following steps:
 
